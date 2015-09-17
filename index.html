@@ -1,1 +1,16 @@
-Hello World.
+<html>
+  <head>
+    <script src="feeds/instafeed.min.js"></script>
+    <script>
+    var feed = new Instafeed({
+        get: 'tagged',
+        tagName: 'chocolate',
+        clientId: 'melting_house'
+    });
+    feed.run();
+</script>
+  </head>
+  <body>
+    <div id="instafeed"></div>
+  </body>
+</html>
