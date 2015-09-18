@@ -8,9 +8,9 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.meltinghouse.co.uk" # the base hostname & protocol for your site
 twitter_username: MeltingHouse
-facebook_page: "MeltingHouseChocolate"
+facebook_page: MeltingHouseChocolate
 github_username:  m0nkmaster
-instagram_username: "melting_house"
+instagram_username: melting_house
 
 # Build settings
 markdown: kramdown
