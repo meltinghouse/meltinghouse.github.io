@@ -6,10 +6,16 @@
 
             {% include header.html %}
 
-            {{content}}
-
+            <div id="main-wrapper">
+                <div id="main" class="container">
+                    <div id="content">
+                        <article class="box post">
+                            {{content}}
+                        </article>
+                    </div>
+                </div>
+            </div>
             {% include footer.html %}
-
         </div>
 
         <!-- Scripts -->
