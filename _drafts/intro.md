@@ -6,6 +6,8 @@ Hello this is normal text.
 Smaller title
 -------------
 
-No need for `<p>` tags or anything.
+No need for `<p>` tags or anything. Just add...
 
-_italic_ **bold** etc... [Link text](http://www.google.com)
+A new line.
+
+_italic_ **bold** etc... [Here's a good markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
