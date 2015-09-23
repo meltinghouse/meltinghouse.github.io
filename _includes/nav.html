@@ -1,8 +1,9 @@
 <nav id="nav">
     <ul>
+        <li><a href="/""><span>Home</span></a></li>
         {% for page in site.pages %}
           {% if page.title %}
-          <li><a class="icon fa-{{page.icon}}" href="{{ page.url | prepend: site.baseurl }}"><span>{{ page.title }}</span></a></li>
+          <li><a href="{{ page.url | prepend: site.baseurl }}"><span>{{ page.title }}</span></a></li>
           {% endif %}
         {% endfor %}
 

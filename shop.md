@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
-icon: info
+title: Shop
+permalink: /shop/
+icon: shopping-cart
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
