@@ -1,6 +1,4 @@
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
-@import url("https://fonts.googleapis.com/css?family=Lobster");
 @import url(https://fonts.googleapis.com/css?family=Nunito:700,400,300);
 
 /*
@@ -1658,8 +1656,8 @@
 
 	#header {
 		position: relative;
-		border-bottom: solid 2px #e5e5e5;
-		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;
+		/*border-bottom: solid 2px #e5e5e5;
+		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5;*/
 	}
 
 		#header h1 {
@@ -1908,7 +1906,7 @@
 			}
 
 			#banner-wrapper {
-				padding: 3em 0 3em 0;
+				padding: 0em 0 0em 0;
 			}
 
 			#main-wrapper {
@@ -1922,7 +1920,7 @@
 		/* Header */
 
 			#header {
-				padding: 0 0 2em 0;
+				padding: 0 0 0.1em 0;
 			}
 
 				#header h1 {
@@ -1939,7 +1937,7 @@
 		/* Nav */
 
 			#nav {
-				padding: 2em 0 2em 0;
+				padding: 2em 0 0em 0;
 			}
 
 				#nav > ul > li {
@@ -2161,7 +2159,7 @@
 		/* Header */
 
 			#header {
-				padding: 0em 0 4em 0;
+				padding: 0em 0 0.1em 0;
 			}
 
 				#header h1 {
@@ -2488,7 +2486,7 @@
 		/* Header */
 
 			#header {
-				padding: 2em 0 2em 0;
+				padding: 2em 0 0.1em 0;
 			}
 
 				#header h1 {

@@ -10,4 +10,4 @@ No need for `<p>` tags or anything. Just add...
 
 A new line.
 
-_italic_ **bold** etc... [Here's a good markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+_italic_ **bold** etc... [Here's a link to a good markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
