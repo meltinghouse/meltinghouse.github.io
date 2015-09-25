@@ -1,5 +1,6 @@
 @import url("font-awesome.min.css");
-@import url(https://fonts.googleapis.com/css?family=Nunito:700,400,300);
+@import url(https://fonts.googleapis.com/css?family=Kristi);
+@import url(https://fonts.googleapis.com/css?family=Raleway);
 
 /*
 	Strongly Typed by HTML5 UP
@@ -1098,7 +1099,7 @@
 
 	body {
 		background: #f0f0f0;
-		font-family: 'Source Sans Pro';
+		font-family: 'Raleway', sans-serif;
 		font-weight: 300;
 		color: #777;
 	}
@@ -1115,7 +1116,7 @@
 		}
 
 	input, textarea, select {
-		font-family: 'Source Sans Pro';
+		font-family: 'Raleway', sans-serif;
 		font-weight: 300;
 		color: #777;
 	}
@@ -1661,7 +1662,7 @@
 	}
 
 		#header h1 {
-			font-family: 'Nunito', sans-serif;
+			font-family: 'Raleway', sans-serif;
 			font-weight: 700;
 			color: #ed786a;
 			text-shadow: 0.05em 0.075em 0 rgba(0, 0, 0, 0.1);
@@ -1672,8 +1673,9 @@
 			}
 
 		#header p {
-			text-transform: uppercase;
-			font-weight: 400;
+			font-family: 'Kristi', cursive;
+			/*text-transform: uppercase;*/
+			font-size: 20pt;
 			color: #888;
 		}
 
@@ -1929,8 +1931,8 @@
 				}
 
 				#header p {
-					margin: 2.5em 0 0 0;
-					font-size: 0.85em;
+					margin: 1.5em 0 0 0;
+					font-size: 1.45em;
 					letter-spacing: 3px;
 				}
 
