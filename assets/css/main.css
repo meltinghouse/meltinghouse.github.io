@@ -1591,9 +1591,9 @@
 		background: #fff;
 		color: #fff;
 		text-align: center;
-		border-top: solid 2px #e5e5e5;
-		border-bottom: solid 2px #e5e5e5;
-		box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5, inset 0px 8px 0px 0px #fff, inset 0px 10px 0px 0px #e5e5e5;
+		/*border-top: solid 2px #e5e5e5;*/
+		/*border-bottom: solid 2px #e5e5e5;*/
+		/*box-shadow: inset 0px -8px 0px 0px #fff, inset 0px -10px 0px 0px #e5e5e5, inset 0px 8px 0px 0px #fff, inset 0px 10px 0px 0px #e5e5e5;*/
 	}
 
 		#banner-wrapper .inner {
@@ -2143,11 +2143,11 @@
 		/* Wrappers */
 
 			#features-wrapper {
-				padding: 4em 0 4em 0;
+				padding: 2em 0 2em 0;
 			}
 
 			#banner-wrapper {
-				padding: 2em 0 2em 0;
+				padding: 0em 0 0em 0;
 			}
 
 			#main-wrapper {
@@ -2165,7 +2165,7 @@
 			}
 
 				#header h1 {
-					font-size: 2em;
+					font-size: 2.5em;
 				}
 
 				#header p {
