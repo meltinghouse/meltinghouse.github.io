@@ -2,9 +2,13 @@
 title: The Melting House
 email: hello@meltinghouse.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The Melting House is a chocolate shop and kitchen based in Mirfield, Yorkshire,
+  where we make small batches of handmade chocolate. From truffles, bars,
+  slabs and shard to Easter eggs, chocolate hampers,
+  cakes and baked goods; everything is made by hand here by our small team
+  of chocolatiers. You'll also find personalised chocolates and freshly
+  handmade treats. Come along to our Mirfield shop to see chocolate
+  making in action in the Melting House kitchen.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.meltinghouse.co.uk" # the base hostname & protocol for your site
 twitter_username: MeltingHouse
