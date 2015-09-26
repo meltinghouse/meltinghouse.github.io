@@ -2,7 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-icon: info
 ---
 
 About the Melting House text goes here... [Here's how you do a link](http://www.meltinghouse.co.uk). 
