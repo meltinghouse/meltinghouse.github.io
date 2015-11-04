@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Faith and Glory One';
+	src:
+        local('Faith and Glory One'),
+        url('/assets/fonts/fgo.otf')
+        format('opentype');
+}
