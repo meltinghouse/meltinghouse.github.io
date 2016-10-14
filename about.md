@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Our Story
-permalink: /Our Story/
+title: About
+permalink: /About/
 ---
 
 Ey up! Welcome to the Melting House, where lovingly handmade chocolates and quirky treats are born. The Melting House girls are Emma and Claire, two sisters with a passion for choc! 
