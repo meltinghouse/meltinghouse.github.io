@@ -1598,7 +1598,8 @@
 	}
 
 		#banner-wrapper .inner {
-			background: url("../../images/bannerimage.jpg");
+			/*background: url("../../images/bannerimage.jpg");*/
+			background: url("../../images/mhillustration_banner.jpg");
 			background-size: cover;
 		}
 
